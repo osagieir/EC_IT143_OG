@@ -1,0 +1,2 @@
+-- Step 1: Question
+-- What is the total number of users in the database?
