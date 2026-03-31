@@ -3,7 +3,7 @@
 -- Description: MyCommunity dataset - 4 questions and answers
 -- Author: OSAGIE GEORGE
 -- Original Questions:
--- Q1, Q2: Created by Busari Gbotemi
+-- Q1, Q2: Created by osagie 
 -- Q3: Inspired by another student (fictional: N. Herman)
 -- Q4: Inspired by another student (fictional: K. Kwaku)
 -- ===============================================
@@ -13,7 +13,7 @@ GO
 
 -- ===============================================
 -- QUESTION 1
--- Q1 (Busari Gbotemi): List all members and their emails who joined after Feb 1, 2025
+-- Q1 (osagie): List all members and their emails who joined after Feb 1, 2025
 -- ===============================================
 SELECT Name, Email, JoinDate
 FROM Members
@@ -22,7 +22,7 @@ GO
 
 -- ===============================================
 -- QUESTION 2
--- Q2 (Busari Gbotemi): Find all activities and the number of members participating in each
+-- Q2 (osagie): Find all activities and the number of members participating in each
 -- ===============================================
 SELECT a.ActivityName, COUNT(ma.MemberID) AS NumParticipants
 FROM Activities a
