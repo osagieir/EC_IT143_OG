@@ -1,7 +1,7 @@
 -- ===============================================
 -- Script: EC_IT143_W5.2_MyCommunity_BG.sql
 -- Description: MyCommunity dataset - 4 questions and answers
--- Author: Busari Gbotemi
+-- Author: OSAGIE GEORGE
 -- Original Questions:
 -- Q1, Q2: Created by Busari Gbotemi
 -- Q3: Inspired by another student (fictional: N. Herman)
